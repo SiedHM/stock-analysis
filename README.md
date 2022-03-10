@@ -18,10 +18,8 @@ ii.	Refactor VBA scripts made for the year 2018 and discuss the advantages and d
 Table-1 shows green energy stock returns for the years 2017 and 2018. Two colors are used to identify positive and negative returns. Green color shows positive return and red color shows negative returns. I used the VBA codes shown at the end of this subtopic to color cells in the table. Further, Initially the analysis was done only for 2018. However, using a ‘yearValue’ variable in the ‘InputBox’ syntax, we can produce results for both years 2017 and 2018(see sample codes at the end of this subtopic). 
 Table-1: Returns (%) of green energy stock investment for the years 2017 and 2018
 Ticker	Return (2017)	Return (2018)
-# [Table-1 here]
 
-
-![FIG1](https://github.com/nebil2016/stock-analysis/blob/main/FIG101.png)
+![Table1](https://github.com/nebil2016/stock-analysis/blob/main/Table-1.png)
 		
 Results from Table-1 shows that most companies had positive return for the year 2017 except for TERP. The DAQO New Energy Corporation (DQ), which Steve parents were initially interested in to invest  all their money on, had in fact, the highest return(about 199%).  SEDG and ENPH were the second and third companies with highest return on their stock investment.   However, in 2018, most companies have negative stock investment return except EPNH and RUN.  EPNH had consistently positive stock investment return. DQ return had about -63% return. SEDG which had second highest positive return in 2017, had about -8% return, which is much higer than DQ’s return in 2018.  Given the stock return variability, I agree with Steeve that it is not good idea to make all money invested in one company. Given the results for 2017 and 2018, I advise his parents first to consider EPNH and add one or two additional companies like RUN, SEDG. 
   
