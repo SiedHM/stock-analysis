@@ -31,6 +31,7 @@ Stock trade volume measures the quantity(number) of shares traded in a given per
 
 Table-2 shows the total daily volume of stock trades in 2017 and 2018 for 12 companies. Like Table-1 above, the change in trade volume is colored with green and red colors. Green color is for positive changes in total trade volume between 2017 and 2018 and red for negative changes. From this table it can be shown that EPNH has large positive change in the volume of trade which may viewed as strong and healthy. DQ, which Steeve parents planned to make an investment on, had also positive change. 
 
+![Table1](https://github.com/nebil2016/stock-analysis/blob/main/Table-2.png)
 
 
 Given the results in Tables-1 and 2, we can now advice Steeve parents not to make all their investment in one company, DQ. In fact, there are other companies like EPNH which may be viewed as strong and healthy by financial analyst.  I advise his parents to consider companies with positive return and positive trading volumes. These are companies which can be predictable and viewed as strong and healthy. 
@@ -55,7 +56,7 @@ This project is based on refactoring of an original code which were made only on
 The disadvantages of Code Refactoring: Time Consuming. One may have no idea how much time it may take to complete the process. Because of this it is advised not to refactor if one does not have time or is working near deadline. Stable codes are not also advised to be refactored.
 In this particular assignment, the first advantage of refactoring is it generates results of two years simultaneously instead of having two separate codes for each   year. It also reduces the program processing time. Table-3 below shows the processing time for the year 2018 before and after refactoring. Processing time is reduced significantly. 
 
-# [Table-3 Here]
+![Table1](https://github.com/nebil2016/stock-analysis/blob/main/Table-3.png)
 
 The second advantage is that it adds new features like coloring of the results which increases the readability and detectability of results very easily. 
 For beginner like me the guidance on refactoring help me to learn coding better and know that long codes can be shorten. As a beginner, I have not identified   disadvantage of refactoring in this exercise as the instructions and examples were clear. I find it very helpful. 
