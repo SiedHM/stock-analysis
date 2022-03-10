@@ -8,7 +8,7 @@ i.	Explore green energy stock performance by analyzing the well street financial
 •	Analyze the return of investment on green energy stocks over time
 •	Analyze the total daily trading volume of green energy stocks over time
 ii.	Refactor VBA scripts made for the year 2018 and discuss the advantages and disadvantages of refactoring in general and in particular related to the current code 
-2.	Data and Method of analysis
+## 2.	Data and Method of analysis
  I used Wall Street Green Energy Stock data for the year 2017 and 2018.  It contains stocks of 12 green energy companies. The data contains company ticker, starting date, ending data, closing prices and trading volumes.  The data was obtained from Bootcamp for this exercise. I used the Visual Business Application (VBA) to generate Tabular results shown below. 
 
 
