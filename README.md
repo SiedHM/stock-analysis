@@ -1,10 +1,10 @@
 
-# Report for Module-2 Challenge
+# Stock Analysis
 
 # 1.  Overview of Project.
-Steeve, a fresh graduate in finance, wanted to help his parents who are interested to make an investment on green energy producing companies. Initially they wanted to make all their investment on one green energy company DAQO New Energy Corporation (DQ), but he is concerned diversifying their funds and hence he wanted to analyses a handful of green energy stocks in addition to DQ stocks. He made an excel data of the different green energy stocks with their prices and trade volumes. Steve wanted the stock return and trade volumes to be analyzed using VISUAL BUSINESS APPLICATION(VBA). As an expert in VBA, he asked me to help him out to do the analysis. His initial request was to do the analysis for the year 2018. I gave him the VBA codes and analytical results for the 2018. After looking the 2018 result, he wanted to include additional years and also refactor the VBA scripts made for the 2018.
+A client wantto make an investment on green energy producing companies. Initially it wanted to make all its investment on one green energy company DAQO New Energy Corporation (DQ), but It is concerned diversifying their funds and hence he wanted to analyses a handful of green energy stocks in addition to DQ stocks. It provided  an excel data of the different green energy stocks with their prices and trade volumes. It wanted the stock return and trade volumes to be analyzed . We used  VISUAL BUSINESS APPLICATION(VBA) to analyse it. Its initial request was to do the analysis for the year 2018. We gave it the VBA codes and analytical results for the 2018. After looking the 2018 result, it wanted to include additional years and also refactor the VBA scripts made for the 2018.
 # The purpose of the report is
-i.	Explore green energy stock performance by analyzing the well street financial data using Visual Business Application (VBA) . Specifically,
+i.	Explore green energy stock performance by analyzing the wall street financial data using Visual Business Application (VBA) . Specifically,
 •	Analyze the return of investment on green energy stocks over time
 •	Analyze the total daily trading volume of green energy stocks over time
 ii.	Refactor VBA scripts made for the year 2018 and discuss the advantages and disadvantages of refactoring in general and in particular related to the current code 
@@ -34,14 +34,14 @@ Table-2 shows the total daily volume of stock trades in 2017 and 2018 for 12 com
 ![Table1](https://github.com/nebil2016/stock-analysis/blob/main/Table-2.png)
 
 
-Given the results in Tables-1 and 2, we can now advice Steeve parents not to make all their investment in one company, DQ. In fact, there are other companies like EPNH which may be viewed as strong and healthy by financial analyst.  I advise his parents to consider companies with positive return and positive trading volumes. These are companies which can be predictable and viewed as strong and healthy. 
+Given the results in Tables-1 and 2, we can now advice Sthe client not to make all their investment in one company, DQ. In fact, there are other companies like EPNH which may be viewed as strong and healthy by financial analyst.  I advise the client to consider companies with positive return and positive trading volumes. These are companies which can be predictable and viewed as strong and healthy. 
  
 
 
 
 
 # 4.	Conclusions
-The findings of this project imply that Steeve parents need to diversify their investment rather than investing all their money in one company. EPNH is the green energy company which has positive return in both years and also with largest positive total daily stock trading volume. Steeve parents can be benefited if they make investment on EPNH and additional companies with positive return in both return and change in trading volume. 
+The findings of this project imply that the client need to diversify their investment rather than investing all their money in one company. EPNH is the green energy company which has positive return in both years and also with largest positive total daily stock trading volume. Steeve parents can be benefited if they make investment on EPNH and additional companies with positive return in both return and change in trading volume. 
 This project is based on refactoring of an original code which were made only one year. Refactoring is a restructuring an existing body of code, altering its internal structure without changing its external behavior (Martin Fowler's definition).  I learned from the internet that Refactoring has pros and cons in general. 
 
 
